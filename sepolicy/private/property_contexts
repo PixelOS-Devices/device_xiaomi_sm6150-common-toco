@@ -4,6 +4,9 @@ persist.bootanim.color2     u:object_r:bootanim_system_prop:s0     exact    int
 persist.bootanim.color3     u:object_r:bootanim_system_prop:s0     exact    int
 persist.bootanim.color4     u:object_r:bootanim_system_prop:s0     exact    int
 
+# Hardware
+ro.hardware.chipname        u:object_r:exported_default_prop:s0
+
 # Miui Camera
 vendor.sys.camerainfo       u:object_r:build_prop:s0
 
