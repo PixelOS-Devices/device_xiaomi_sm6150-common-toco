@@ -441,7 +441,8 @@ PRODUCT_PACKAGES += \
     libjson \
     libril \
     librilutils \
-    librmnetctl
+    librmnetctl \
+    librmnetctl.vendor:64
 
 # Recovery
 PRODUCT_PACKAGES += \
