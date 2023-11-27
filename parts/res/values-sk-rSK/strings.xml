@@ -82,11 +82,4 @@
     <string name="clear_speaker_title">Vyčistiť reproduktor</string>
     <string name="clear_speaker_summary">Prehrať 30 sekundový zvuk pre vyčistenie reproduktoru</string>
     <string name="clear_speaker_description">Túto funkciu spustite raz alebo dvakrát, ak zistíte, že váš reproduktor je ľahko znečistený prachom. Nastavte hlasitosť na maximum.\n\nAk je reproduktor silne znečistený, spustite túto funkciu 2-5 krát a zatraste zariadením tak, aby reproduktor smeroval nadol.\n\nVAROVANIE: Uistite sa, že sú všetky slúchadlá odpojené.</string>
-    <!-- Haptic Level Settings -->
-    <string name="haptic_title">Hmatová odozva</string>
-    <string name="haptic_warning">Nastavenie príliš vysokej úrovne haptiky môže spôsobiť trvalé poškodenie hardvéru, používajte na vlastné riziko</string>
-    <string name="haptic_summary">Nastaviť intenzitu vybrácií</string>
-    <string name="haptic_level_title">Úroveň</string>
-    <string name="haptic_level_summary">Intezita vibrácií</string>
-    <string name="haptic_level_summary_incompatible">Funkcia nie je podporovaná</string>
 </resources>

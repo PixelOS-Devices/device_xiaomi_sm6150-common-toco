@@ -82,11 +82,4 @@
     <string name="clear_speaker_title">स्पीकर को साफ़ करें</string>
     <string name="clear_speaker_summary">स्पीकर को साफ़ करने के लिए 30 सेकंड का ऑडियो चलाएं</string>
     <string name="clear_speaker_description">इस सुविधा को एक या दो बार चलाएं यदि आप पाते हैं कि आपका स्पीकर धूल से हल्का अवरुद्ध है। मीडिया वॉल्यूम को अधिकतम पर सेट करें। \n\nयदि स्पीकर को बहुत अधिक अवरुद्ध किया गया है, तो अपने डिवाइस को नीचे की ओर स्पीकर के साथ हिलाते हुए इस सुविधा को 2-5 बार चलाएं।</string>
-    <!-- Haptic Level Settings -->
-    <string name="haptic_title">कंपन फीडबैक </string>
-    <string name="haptic_warning">हैप्टिक स्तर बहुत अधिक सेट करना स्थायी हार्डवेयर क्षति का कारण बन सकता है, अपने जोखिम पर उपयोग करें</string>
-    <string name="haptic_summary">कंपन तीव्रता सेट करें</string>
-    <string name="haptic_level_title">स्तर</string>
-    <string name="haptic_level_summary">कंपन तीव्रता की मात्रा</string>
-    <string name="haptic_level_summary_incompatible">सुविधा समर्थित नहीं है</string>
 </resources>

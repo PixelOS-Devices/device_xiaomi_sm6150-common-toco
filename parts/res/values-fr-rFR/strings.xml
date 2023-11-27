@@ -83,11 +83,4 @@
     <string name="clear_speaker_summary">Lire un enregistrement audio de 30 secondes pour nettoyer le haut-parleur</string>
     <string name="clear_speaker_description">Éxécutez cette fonction une ou deux fois si votre haut-parleur est légèrement bouché par la poussière. Réglez le volume au maximum.\n\nSi le haut-parleur est plus encombré, répétez de 2 à 5 fois la procédure tout en secouant le téléphone avec le haut-parleur vers le bas.\n\nATENTION:
 S\'assurer que les écouteurs sont déconnectés.</string>
-    <!-- Haptic Level Settings -->
-    <string name="haptic_title">Retour tactile</string>
-    <string name="haptic_warning">La configuration du niveau du retour tactile trop haut peut causer des dommages matériels permanents, à vos risques et périls</string>
-    <string name="haptic_summary">Personnaliser l\'intensité des vibrations</string>
-    <string name="haptic_level_title">Niveau</string>
-    <string name="haptic_level_summary">Intensité des vibrations</string>
-    <string name="haptic_level_summary_incompatible">Fonctionnalité non prise en charge</string>
 </resources>

@@ -82,11 +82,4 @@
     <string name="clear_speaker_title">Καθαρισμός ηχείου</string>
     <string name="clear_speaker_summary">Αναπαραγωγή ήχου 30 δευτερολέπτων για εκκαθάριση του ηχείου</string>
     <string name="clear_speaker_description">Εκτελέστε αυτήν τη λειτουργία μία ή δύο φορές εάν διαπιστώσετε ότι το ηχείο σας είναι ελαφρά φραγμένο από σκόνη. Ρυθμίστε την ένταση του μέσου στο μέγιστο.\n\nΑν το ηχείο έχει μπλοκαριστεί πολύ, εκτελέστε αυτήν τη λειτουργία 2-5 φορές ενώ κουνάτε τη συσκευή σας με το ηχείο στραμμένο προς τα κάτω. \n\nΠΡΟΕΙΔΟΠΟΙΗΣΗ: Σιγουρευτείτε ότι δεν έχετε συνδεδεμένα ακουστικά.</string>
-    <!-- Haptic Level Settings -->
-    <string name="haptic_title">Απτική ανάδραση</string>
-    <string name="haptic_warning">Η ρύθμιση του απτικού επιπέδου πολύ υψηλά μπορεί να προκαλέσει μόνιμη βλάβη στο hardware, χρησιμοποιήστε το με δική σας ευθύνη</string>
-    <string name="haptic_summary">Προσαρμογή έντασης δόνησης</string>
-    <string name="haptic_level_title">Επίπεδο</string>
-    <string name="haptic_level_summary">Έλεγχος έντασης δόνησης</string>
-    <string name="haptic_level_summary_incompatible">Η λειτουργία δεν υποστηρίζεται</string>
 </resources>

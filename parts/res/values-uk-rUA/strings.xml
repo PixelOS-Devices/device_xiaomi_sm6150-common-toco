@@ -82,11 +82,4 @@
     <string name="clear_speaker_title">Очистка динаміка</string>
     <string name="clear_speaker_summary">Відтворити 30-секундний сигнал для очищення динаміка</string>
     <string name="clear_speaker_description">Використайте цю функцію раз або двічі, якщо помітили, що динамік трохи засмітився. Зробіть якомога гучніше.\n\nЯкщо динамік засмітився сильніше, запустіть функцію 2-5 разів і трусіть пристроєм, тримаючи динаміком донизу.\n\nУВАГА: Переконайтеся, що навушники не під\'єднано</string>
-    <!-- Haptic Level Settings -->
-    <string name="haptic_title">Тактильна віддача</string>
-    <string name="haptic_warning">Налаштування тактильного рівня може призвести до постійної пошкодження обладнання, використовуйте на свій страх і ризик</string>
-    <string name="haptic_summary">Налаштувати інтенсивність вібрації</string>
-    <string name="haptic_level_title">Рівень</string>
-    <string name="haptic_level_summary">Ступінь вібрації</string>
-    <string name="haptic_level_summary_incompatible">Функція не підтримується</string>
 </resources>

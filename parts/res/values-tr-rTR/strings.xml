@@ -82,11 +82,4 @@
     <string name="clear_speaker_title">Hoparlörü temizle</string>
     <string name="clear_speaker_summary">Hoparlörü temizlemek için 30 saniye boyunca bir ses çal</string>
     <string name="clear_speaker_description">Hoparlörünüzün toz tarafından hafifçe engellendiğini fark ederseniz bu özelliği bir veya iki kez çalıştırın. Medya ses seviyesini maksimuma ayarlayın.\n\nHoparlör çok fazla tıkalı ise, hoparlör aşağı bakacak şekilde cihazınızı sallarken bu özelliği 2-5 kez çalıştırın.\n\nUYARI: Kulaklıkların takılı olmadığından emin olun.</string>
-    <!-- Haptic Level Settings -->
-    <string name="haptic_title">Dokunmatik geri bildirim</string>
-    <string name="haptic_warning">Haptik seviyesinin çok yüksek ayarlanması kalıcı donanım hasarına neden olabilir, riski size ait olmak üzere kullanın</string>
-    <string name="haptic_summary">Zil sesi titreşim yoğunluğu</string>
-    <string name="haptic_level_title">Seviye</string>
-    <string name="haptic_level_summary">Titreşim güç kontrolu</string>
-    <string name="haptic_level_summary_incompatible">Özellik desteklenmiyor</string>
 </resources>

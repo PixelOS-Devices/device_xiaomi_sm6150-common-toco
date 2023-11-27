@@ -82,11 +82,4 @@
     <string name="clear_speaker_title">Hangszórótisztítás</string>
     <string name="clear_speaker_summary">Tisztítás egy 30 pásodperces hang lejátszásával</string>
     <string name="clear_speaker_description">Futtassa ezt a funkciót egyszer vagy kétszer, ha úgy gondolja hangszórója beporosodott. Állítsa a hangerőt maximumra.\n\nHa nagyon poros, akkor 3-5 alkalommal végezzen tisztítást, de közben a készüléket is erősen rázza meg, hangszóróval lefelé.\n\nVIGYÁZZON hogy egyetlen fejhallgató se legyen csatlakoztatva!</string>
-    <!-- Haptic Level Settings -->
-    <string name="haptic_title">Rezgő visszajelzés</string>
-    <string name="haptic_warning">Ne állítsa túl erősre a rezgést, mert a finom alkatrészek megsérülhetnek! Csak saját felelősségre!</string>
-    <string name="haptic_summary">A rezgés intenzitásvezérlése</string>
-    <string name="haptic_level_title">Szint</string>
-    <string name="haptic_level_summary">Rezgésintezitás</string>
-    <string name="haptic_level_summary_incompatible">Ez a funkció nem támogatott</string>
 </resources>

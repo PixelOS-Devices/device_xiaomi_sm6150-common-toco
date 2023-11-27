@@ -82,11 +82,4 @@
     <string name="clear_speaker_title">Claritatea sunetului</string>
     <string name="clear_speaker_summary">Redă un sunet de 30 sec. pentru claritatea sunetului</string>
     <string name="clear_speaker_description">Rulează această caracteristică o dată sau de două ori dacă descoperi că difuzorul este ușor blocat de praf. Setează volumul media la maxim.\n\n Dacă difuzorul este blocat puternic, rulează această caracteristică de 2-5 ori în timp ce scuturi dispozitivul cu difuzorul orientat în jos.</string>
-    <!-- Haptic Level Settings -->
-    <string name="haptic_title">Vibrații la atingere</string>
-    <string name="haptic_warning">Configurarea unui nivel de vibrare prea ridicat poate provoca daune hardware permanente, utilizează pe propriul risc</string>
-    <string name="haptic_summary">Personalizează intensitatea vibrațiilor</string>
-    <string name="haptic_level_title">Nivel</string>
-    <string name="haptic_level_summary">Nivelul intensității vibrației</string>
-    <string name="haptic_level_summary_incompatible">Caracteristică neacceptată</string>
 </resources>

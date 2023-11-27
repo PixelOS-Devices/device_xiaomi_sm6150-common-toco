@@ -82,11 +82,4 @@
     <string name="clear_speaker_title">Limpiar altavoz</string>
     <string name="clear_speaker_summary">Reproduce un audio de 30 segundos para limpiar el altavoz</string>
     <string name="clear_speaker_description">Ejecuta esta función una o dos veces si ves que el polvo está obstruyendo el altavoz. Sube el volumen al máximo.\n\nSi el altavoz está un poco bloqueado, ejecuta esta función de 2 a 5 veces mientras agitas el dispositivo con el altavoz hacia abajo.\n\n Advertencia: Desconecta los auriculares.</string>
-    <!-- Haptic Level Settings -->
-    <string name="haptic_title">Respuesta háptica</string>
-    <string name="haptic_warning">La configuración de nivel háptico demasiado alto puede causar daños permanentes en el hardware, usarlo bajo su propio riesgo</string>
-    <string name="haptic_summary">Personalizar intensidad de vibración</string>
-    <string name="haptic_level_title">Nivel</string>
-    <string name="haptic_level_summary">Intensidad de vibración</string>
-    <string name="haptic_level_summary_incompatible">Función no compatible</string>
 </resources>

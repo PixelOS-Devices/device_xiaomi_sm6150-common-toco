@@ -82,11 +82,4 @@
     <string name="clear_speaker_title">സ്പീക്കർ വൃത്തിയാക്കുക</string>
     <string name="clear_speaker_summary">സ്പീക്കർ വൃത്തിയാക്കാൻ 30 സെക്കന്റ് ഓഡിയോ പ്ലേ ചെയ്യുക</string>
     <string name="clear_speaker_description">നിങ്ങളുടെ സ്പീക്കർ പൊടിയാൽ ചെറുതായി തടഞ്ഞിട്ടുണ്ടെന്ന് കണ്ടാൽ ഒന്നോ രണ്ടോ തവണ ഈ ഫീച്ചർ പ്രവർത്തിപ്പിക്കുക. മീഡിയ വോളിയം പരമാവധി സജ്ജമാക്കുക.\n\nസ്പീക്കർ വൻതോതിൽ ബ്ലോക്ക് ചെയ്‌തിട്ടുണ്ടെങ്കിൽ, സ്‌പീക്കർ താഴേക്ക് തിരിഞ്ഞ് നിങ്ങളുടെ ഉപകരണം കുലുക്കുമ്പോൾ ഈ ഫീച്ചർ 2-5 തവണ പ്രവർത്തിപ്പിക്കുക.\n\nമുന്നറിയിപ്പ്: ഏതെങ്കിലും ഹെഡ്‌ഫോണുകൾ അൺപ്ലഗ് ചെയ്തിട്ടുണ്ടെന്ന് ഉറപ്പാക്കുക.</string>
-    <!-- Haptic Level Settings -->
-    <string name="haptic_title">ഹപ്‌റ്റിക് ഫീഡ്‌ബാക്ക്</string>
-    <string name="haptic_warning">വളരെ ഉയർന്ന ഹാപ്‌റ്റിക് ലെവൽ സജ്ജീകരിക്കുന്നത് സ്ഥിരമായ ഹാർഡ്‌വെയർ തകരാറിന് കാരണമായേക്കാം, നിങ്ങളുടെ സ്വന്തം ഉത്തരവാദിത്തത്തിൽ ഉപയോഗിക്കുക</string>
-    <string name="haptic_summary">വൈബ്രേഷൻ തീവ്രത ഇഷ്ടാനുസൃതമാക്കുക</string>
-    <string name="haptic_level_title">ലെവൽ</string>
-    <string name="haptic_level_summary">വൈബ്രേഷൻ തീവ്രതയുടെ അളവ്</string>
-    <string name="haptic_level_summary_incompatible">ഫീച്ചർ ലഭ്യമല്ല</string>
 </resources>

@@ -82,11 +82,4 @@
     <string name="clear_speaker_title">Rensa högtalare</string>
     <string name="clear_speaker_summary">Spela ett 30 sekunders ljudklipp för att rensa högtalaren</string>
     <string name="clear_speaker_description">Kör denna funktion en eller två gånger om du upptäcker att högtalaren är lätt blockerad av damm. Ställ in mediavolymen till maximal.\n\nOm högtalaren blockeras tungt, kör denna funktion 2-5 gånger medan du skakar enheten med högtalaren nedåt.\n\nVARNING: Se till att alla hörlurar är bortkopplade.</string>
-    <!-- Haptic Level Settings -->
-    <string name="haptic_title">Haptisk feedback</string>
-    <string name="haptic_warning">Setting-up haptic level too high may cause permanent hardware damage, use at your own risk</string>
-    <string name="haptic_summary">Anpassa vibrationsintensiteten</string>
-    <string name="haptic_level_title">Nivå</string>
-    <string name="haptic_level_summary">Amount of vibration intensity</string>
-    <string name="haptic_level_summary_incompatible">Funktionen stöds inte</string>
 </resources>

@@ -82,11 +82,4 @@
     <string name="clear_speaker_title">Limpar alto-falante</string>
     <string name="clear_speaker_summary">Reproduzir um áudio de 30 segundos para limpar o alto-falante</string>
     <string name="clear_speaker_description">Execute esse recurso uma ou duas vezes se o alto-falante estiver bloqueado por sujeira ou água. Você deve ajustar o volume de mídia para o máximo.\n\nSe o alto-falante estiver muito bloqueado, execute este recurso 2 a 5 vezes enquanto agita seu dispositivo com o alto-falante voltado para baixo.</string>
-    <!-- Haptic Level Settings -->
-    <string name="haptic_title">Retorno tátil</string>
-    <string name="haptic_warning">Configurar um nível de retorno tátil muito alto pode causar danos permanentes no hardware, use por sua conta e risco</string>
-    <string name="haptic_summary">Personalizar intensidade da vibração</string>
-    <string name="haptic_level_title">Nível</string>
-    <string name="haptic_level_summary">Intensidade da vibração</string>
-    <string name="haptic_level_summary_incompatible">Recurso não suportado</string>
 </resources>

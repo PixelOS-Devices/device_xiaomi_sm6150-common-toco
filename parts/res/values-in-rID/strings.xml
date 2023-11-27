@@ -82,11 +82,4 @@
     <string name="clear_speaker_title">Bersihkan Speaker</string>
     <string name="clear_speaker_summary">Putar suara 30 detik untuk membersihkan speaker</string>
     <string name="clear_speaker_description">Jalankan fitur ini sekali atau dua kali jika Anda mendapati bahwa speaker Anda terhalang oleh sedikit debu. Atur volume media ke maksimum.\n\nJika speaker terhalang banyak kotoran, jalankan fitur ini 2-5 kali sambil menggoyangkan perangkat Anda dengan speaker menghadap ke bawah.\n\nPERINGATAN: Pastikan headphone tercabut.</string>
-    <!-- Haptic Level Settings -->
-    <string name="haptic_title">Umpan balik haptik</string>
-    <string name="haptic_warning">Mengatur tingkat haptik terlalu tinggi dapat menyebabkan kerusakan pada perangkat secara permanen, gunakan dengan hati-hati</string>
-    <string name="haptic_summary">Mengatur intensitas getaran</string>
-    <string name="haptic_level_title">Tingkat</string>
-    <string name="haptic_level_summary">Jumlah intensitas getaran</string>
-    <string name="haptic_level_summary_incompatible">Fitur tidak didukung</string>
 </resources>

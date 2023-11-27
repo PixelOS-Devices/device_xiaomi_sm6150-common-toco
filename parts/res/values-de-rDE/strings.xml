@@ -82,11 +82,4 @@
     <string name="clear_speaker_title">Lautsprecher reinigen</string>
     <string name="clear_speaker_summary">Spielen Sie einen 30-sekündigen Ton ab, um den Lautsprecher zu entlasten</string>
     <string name="clear_speaker_description">Führen Sie diese Funktion ein- oder zweimal aus, wenn Sie feststellen, dass Ihr Lautsprecher leicht durch Staub blockiert ist. Stellen Sie die Medienlautstärke auf Maximum ein.\n\nWenn der Lautsprecher stark blockiert ist, führen Sie diese Funktion 2-5 Mal aus, während Sie Ihr Gerät mit dem Lautsprecher nach unten schütteln.\n\nACHTUNG: Stellen Sie sicher, dass kein Kopfhörer eingesteckt ist.</string>
-    <!-- Haptic Level Settings -->
-    <string name="haptic_title">Haptisches Feedback</string>
-    <string name="haptic_warning">Eine zu hohe Einstellung des haptischen Feedbacks kann zu dauerhaften Hardwareschäden führen, Verwendung auf eigene Gefahr</string>
-    <string name="haptic_summary">Vibrationsintensität anpassen</string>
-    <string name="haptic_level_title">Stärke</string>
-    <string name="haptic_level_summary">Vibrationsintensität</string>
-    <string name="haptic_level_summary_incompatible">Funktion nicht unterstützt</string>
 </resources>

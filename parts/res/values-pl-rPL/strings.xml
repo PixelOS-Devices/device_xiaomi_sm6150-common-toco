@@ -82,11 +82,4 @@
     <string name="clear_speaker_title">Wyczyść głośnik</string>
     <string name="clear_speaker_summary">Odtwórz 30-sekundowy dźwięk, aby wyczyścić głośnik</string>
     <string name="clear_speaker_description">Uruchom tę funkcję raz lub dwa razy, jeśli zauważysz, że głośnik jest lekko przytkany kurzem. Ustaw głośność na maksimum.\n\nJeśli głośnik jest mocno zatkany, uruchom tę funkcję 2-5 razy, potrząsając urządzeniem z głośnikiem skierowanym w dół.</string>
-    <!-- Haptic Level Settings -->
-    <string name="haptic_title">Wibracje haptyczne</string>
-    <string name="haptic_warning">Ustawienie zbyt wysokiego poziomu wibracji haptycznych może spowodować trwałe uszkodzenie sprzętu, używasz go na własne ryzyko</string>
-    <string name="haptic_summary">Dostosuj intensywność wibracji</string>
-    <string name="haptic_level_title">Poziom</string>
-    <string name="haptic_level_summary">Kontrola intensywności wibracji</string>
-    <string name="haptic_level_summary_incompatible">Funkcja nieobsługiwana</string>
 </resources>
